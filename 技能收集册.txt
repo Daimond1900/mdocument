@@ -1,0 +1,4 @@
+
+	nohup npm start &   服务器端运行node 项目一直跑
+	lsof -i tcp:3000 	查看端口占用情况
+	kill -9 pid			删除应用，释放端口
