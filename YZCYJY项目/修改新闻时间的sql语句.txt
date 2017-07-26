@@ -1,0 +1,9 @@
+select t.*, t.rowid from T_NEWS t where type = '10' order by createtime desc /*根据类型查询 倒序*/
+
+update T_NEWS 
+set createtime=to_date('20170721 103254','yyyymmdd hh24:MI:SS') 
+where header like '%我市“邗建杯”钢筋工职业技能竞赛成功举办%' 
+and  
+type='10'
+
+commit
