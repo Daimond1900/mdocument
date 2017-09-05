@@ -1,0 +1,96 @@
+android 开发规范 -- http://blog.csdn.net/baidu_35255405/article/details/76020068
+
+下班后，高效生活的10个日常习惯 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486044&idx=1&sn=fdfe1c9e32084ef09d1da52fa3369a07&chksm=96cdab11a1ba2207b18ee26a69fd1cd45b6783e53d767ba4c6eb7a2259e2267ba709be504514#rd
+
+程序员之路-学习经验总结分享 -- https://mp.weixin.qq.com/s/0U3DHX60c2rYHUX01iagMw
+
+知识体系（更新至2017.8.11） -- http://liuwangshu.cn/system/
+
+一大波Android技术干货 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484939&idx=1&sn=d1871b09de55ca681da6ec2432a63ee1&chksm=96cda746a1ba2e501605dbb64b32f82b2cb44ad9c6f9ba2308a9321231b2782e6ba679ef31a6&mpshare=1&scene=23&srcid=0614bARC7g4dwQ3qbIVEJ29b#rd
+
+Android关于沉浸式状态栏总结 -- https://juejin.im/post/5989ded56fb9a03c3b6c8bde -- StatusBarUtil 桌面上
+							-- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484516&idx=1&sn=1f31642399dd90bda5afa8664150a2d5&chksm=96cda529a1ba2c3fa47d0fb0e8328a28480c7496e551363d05306c56aadfca8df49baf109db4&mpshare=1&scene=23&srcid=0519RTiUoD1BCbAeAJaUajL5#rd
+
+Kotlin的学习 -- https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/GettingStarted/Basic-Syntax.html
+
+WebView学习 -- https://mp.weixin.qq.com/s/Tcfjd3OFgeQC-huFCOBP0w
+
+下拉刷新、上拉加载更多 -- http://blog.csdn.net/yunyu5120/article/details/74451961 -- https://github.com/scwang90/SmartRefreshLayout
+
+底部导航学习 -- https://mp.weixin.qq.com/s/AqiNI15KK6QfQvaHAQw6Wg
+
+Android视频播放 -- https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649550045&idx=1&sn=acd90179672de0397548415fa3ccd1d3&chksm=f11807a0c66f8eb69692b1f3262b4d474f8deeef4cde85369c97f90e7d7e0ad481c4c5bf7c0e#rd
+
+自定义进度条 -- https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000825&idx=1&sn=8cb139a34a3a26c6c9052aabe50199b0&chksm=6b4768a75c30e1b117440e7f3229cb3e2d25ed9e007fe30681523ed7e27f26a65cee67a45d6a#rd
+
+retrofit 2.0基本使用 -- http://blog.csdn.net/qdjdeveloper/article/details/76522496
+			晋级 	 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485739&idx=1&sn=751318824da6b00507c3023207476f84&chksm=96cda866a1ba2170d2ac32d93147a4302ab3e083e96d55966d7e7f545564e02463d4c5083a92#rd
+
+rxjava完全解析 -- http://www.jianshu.com/p/e9c79eacc8e3
+
+Android 对ListView和RecyclerView的两个BaseAdapter封装分享 -- http://blog.csdn.net/fesdgasdgasdg/article/details/76598665
+
+自定义加载dialog -- https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000824&idx=1&sn=7fa3aac6b14cd2d9cf7b7f73f14f9f3f&chksm=6b4768a65c30e1b07e23804c70cce59972a0ef20d6e223b09afe4350a7ac56b4a7eea0f13266#rd
+
+View 的滑动是Android 实现自定义控件的基础 -- http://geek.csdn.net/news/detail/229157
+
+Android界面性能调优手册 -- https://yq.aliyun.com/articles/152066?utm_content=m_27190
+
+Android 事件分发机制总结 -- http://www.jianshu.com/p/e00b5668ee39
+
+最全面的 Android 导航模式解析 -- http://geek.csdn.net/news/detail/211244
+
+Material Design 系列之CardView、FAB和Snackbar -- https://mp.weixin.qq.com/s/PUnat1CzDHubKp99-BDa4w
+
+Android Studio 实用小技巧 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485764&idx=1&sn=f816c73c1bc0d024d877f5f5371488b7&chksm=96cda809a1ba211faf50e83386c40d74bc71a24bd420f22cffda6a3d62a64ded6b5695a20d59&mpshare=1&scene=23&srcid=0717PkrJrg2LIqVFH25udp60#rd
+
+Android 新手如何学习开发一款 app? -- https://mp.weixin.qq.com/s/ukVT1VjeM_-MgZN7zx_1FQ
+
+Material Design之 AppbarLayout 开发实践总结 -- https://mp.weixin.qq.com/s/1yhXmiQNbeNhj9jMLUYbeQ
+
+Glide框架你这样玩过吗 -- https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000764&idx=1&sn=a5d3b541b504d07c5ae00a89ed263a4a&chksm=6b476f625c30e67471cbe830cbdb695aeeddc6d2ea0e87cc2a3c49d7a31052e2b9312dd38fef#rd
+
+Android官方MVP架构示例项目解析 -- http://blog.csdn.net/Simon_Crystin/article/details/75011311
+							-- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485298&idx=1&sn=2a224af0e09e9f4fa36089fcc258a5d8&chksm=96cda63fa1ba2f29df8e543f4e2851de6873c1124c0c69370ec97bd4bd4ecad92c653be264da#rd
+Android高效插件— MVP结构代码自动生成工具 --  https://mp.weixin.qq.com/s/9_HJ5r31cXirOTIUtd_XcQ
+
+Android上的Notification 锁屏上的消息提示框 -- http://qiangbo.space/2017-07-07/AndroidAnatomy_Notification/
+
+Material Design 之 Behavior的使用和自定义Behavior -- https://mp.weixin.qq.com/s/3ZmRsuxqBPClc8dFFINldg
+				-- http://blog.csdn.net/column/details/15650.html
+
+Android 软键盘的全面解析，让你不再怕控件被遮盖 -- https://mp.weixin.qq.com/s/xmlyHOpZNSI8o3EX73S9sw
+
+android使用gps定位获取经纬度 -- http://blog.csdn.net/kebi007/article/details/74936979
+
+Android O新特性和行为变更总结 -- https://mp.weixin.qq.com/s/Ezfm-Xaz3fzsaSm0TU5LMw
+
+Android 版本更新 -- http://qianwen.me/AppUpdate/java.html
+
+LeakCanary-如何检测活动是否泄漏 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485517&idx=1&sn=b78010412e1f863f452e194824ed4308&chksm=96cda900a1ba20161c7927a64b6724d292342a46ba817cf1bb17345091eddbbe4e8b1699e39d#rd
+
+FloatingActionButton实现 展开/折叠 的多级悬浮菜单 -- http://blog.csdn.net/a_zhon/article/details/74086025
+
+使用TabLayout看这篇就够了 -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485476&idx=1&sn=f6d28e484e574fc9196f1aece5017827&chksm=96cda969a1ba207f99a37ae36c76c32cf7d276382be7bb58949187a3596be202407506bfb066#rd
+
+Rxbus -- https://mp.weixin.qq.com/s/W82lb1zsCSVnubOlVy1iFA
+
+Android单元测试框架Robolectric3.0（一） -- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485425&idx=1&sn=78ad2c2bae37b5ec0c5f4b84866c0670&chksm=96cda6bca1ba2faa212ac6d9b19605a6a90515bd95c2e7668fc2e354bc98d57e27d07e378c2e&mpshare=1&scene=23&srcid=07031V5CyIxbogNs2HXYCm9Y#rd
+Android单元测试框架Robolectric3.0(二) 	-- https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247485429&idx=1&sn=abf5cb690209a30c21698e2b5aa048ec&chksm=96cda6b8a1ba2faee7a8e5e8f4387818bc757066fac24247d10ee64ab60116101999f2e424d5&mpshare=1&scene=23&srcid=0704tYEoSATXl3daHWA6Oulc#rd
+
+Android Studio Live Templates使用详解，提高敲代码的速度 -- http://m.blog.csdn.net/qq137722697/article/details/74085789
+
+Android编程最完整的ToolBar开发指南 -- http://www.cnn6.net/html/android/2017616/202064.html
+
+安卓动态加载技术-- http://www.huqi.tk/index.php/2017/06/03/android_dynamic_load/
+
+Service全方位了解，总有你不知道的一面 -- http://blog.csdn.net/LRH0211/article/details/72675670
+
+史上最全的常用开发工具类收集（持续更新中） -- http://blog.csdn.net/u014727709/article/details/72673810
+
+从未如此惊艳！你好，SuperTextView -- https://mp.weixin.qq.com/s/5eZxtu-_O0_hqW2b_prK_g
+
+精简的Android支付SDK，支持支付宝和微信支付客户端/服务端下单 -- https://github.com/Jamling/af-pay
+
+Android 7.0动态权限大总结 -- http://bbs.jfh.com/topic/26738
+
